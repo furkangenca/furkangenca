@@ -17,4 +17,4 @@
 
 
 ## ✨ Let's Connect
-- [LinkedIn]([https://www.linkedin.com/in/furkangenca/])
+- [LinkedIn](https://www.linkedin.com/in/furkangenca/)
