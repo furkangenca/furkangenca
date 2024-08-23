@@ -1,16 +1,20 @@
-## Hi there 👋
+## Welcome to my profile 
 
-<!--
-**itsfurkann/itsfurkann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 I’m currently learning **Flutter**
+- 💡 Interested in **Mobile Development** and **Web Technologies**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🛠️ Languages and Tools
+- **Languages:** Dart, JavaScript
+- **Frameworks:** Flutter, React Native, Node.js
+- **Tools:** VS Code, Git, Firebase, MongoDB
+
+## 🎨 Design and Creativity
+- 🌈 I enjoy experimenting with **UI/UX Design** and making interfaces both functional and aesthetically pleasing.
+
+
+## ✨ Let's Connect
+- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/furkangenca/))
