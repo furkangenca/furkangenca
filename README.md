@@ -13,7 +13,7 @@
 - **Tools:** VS Code, Git, Firebase, MongoDB
 
 ## 🎨 Design and Creativity
-- 🌈 I enjoy experimenting with **UI/UX Design** and making interfaces both functional and aesthetically pleasing.
+- I enjoy experimenting with **UI/UX Design** and making interfaces both functional and aesthetically pleasing.
 
 
 ## ✨ Let's Connect
