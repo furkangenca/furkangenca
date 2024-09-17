@@ -1,9 +1,9 @@
 ## Welcome to my profile 
 
 
-## 🚀 About Me
-- 🌱 I’m currently learning **Flutter**
-- 💡 Interested in **Mobile Development** and **Web Technologies**
+## 🌜 About Me
+- 🌑 I’m currently learning **Flutter**
+- 🌑 Interested in **Mobile Development** and **Web Technologies**
 
 
 
@@ -16,5 +16,5 @@
 - I enjoy experimenting with **UI/UX Design** and making interfaces both functional and aesthetically pleasing.
 
 
-## ✨ Let's Connect
+## 👻 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/furkangenca/)
