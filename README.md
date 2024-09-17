@@ -2,8 +2,8 @@
 
 
 ## 🌜 About Me
-- 🌑 I’m currently learning **Flutter**
-- 🌑 Interested in **Mobile Development** and **Web Technologies**
+- 🐸 I’m currently learning **Flutter**
+- 🐌 Interested in **Mobile Development** and **Web Technologies**
 
 
 
