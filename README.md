@@ -2,7 +2,7 @@
 
 
 ## 🌜 About Me
-- 🐸 I’m currently learning **Flutter**
+- 🐸 I’m currently learning **Artificial intelligence**
 - 🐌 Interested in **Mobile Development** and **Web Technologies**
 
 
