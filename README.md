@@ -3,14 +3,14 @@
 ## About Me
 Passionate software developer specializing in cross-platform mobile and web technologies. Continuously learning and exploring the intersection of artificial intelligence with application development.
 
-## 🚀 Tech Stack
+##  Tech Stack
 **Languages:** Dart, JavaScript
 
 **Frameworks:** Flutter, React Native, React, Node.js
 
 **Tools:** VS Code, Git, Firebase, MongoDB
 
-## 🌟 Focus
+##  Focus
 - Mobile Development
 - Web Technologies
 - AI Integration
