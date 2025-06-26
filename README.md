@@ -1,19 +1,15 @@
-# Furkan Genca | Mobile & Web Developer
+# Furkan Genca | Junior Software Engineer
 
 ## About Me
-Passionate software developer specializing in cross-platform mobile and web technologies. Continuously learning and exploring the intersection of artificial intelligence with application development.
+I enjoy designing and building software from the ground up—taking an idea and turning it into a structured, working product. The process of organizing, shaping, and refining something that didn't exist before is what makes development meaningful to me.
 
-##  Tech Stack
-**Languages:** Dart, JavaScript
+I'm open to opportunities where I can learn, contribute, and grow by building useful, well-crafted software.
 
-**Frameworks:** Flutter, React Native, React, Node.js
-
-**Tools:** VS Code, Git, Firebase, MongoDB
-
-##  Focus
-- Mobile Development
-- Web Technologies
-- AI Integration
+## 🛠️ Tech Stack
+**Languages:** Python, JavaScript, Dart, SQL  
+**Frameworks:** Node.js, React Native, Flutter  
+**Tools & Platforms:** Git, Firebase, MongoDB, PostgreSQL, VS Code  
+**Focus Areas:** Mobile & Backend Development, AI/ML Integration
 
 ## 🔗 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/furkangenca/)
