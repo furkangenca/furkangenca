@@ -17,7 +17,7 @@ Python · JavaScript · Dart · SQL
 Node.js · React Native · Flutter  
 
 **Tools & Platforms:**  
-VS Code · Cursor · MySQL  
+VS Code · Cursor · MySQL · Firebase 
 
 **Focus Areas:**  
 Artificial Intelligence · Machine Learning · Mobile Development · Backend Engineering
