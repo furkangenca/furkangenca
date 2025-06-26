@@ -22,8 +22,3 @@ VS Code · Cursor · MySQL · Firebase
 **Focus Areas:**  
 Artificial Intelligence · Machine Learning · Mobile Development · Backend Engineering
 
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/furkangenca/)
