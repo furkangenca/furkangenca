@@ -1,6 +1,6 @@
-# 👨‍💻 Furkan Genca | Software Engineer
+#  Furkan Genca | Software Engineer
 
-## 🧠 About Me
+##  About Me
 I enjoy designing and building software from the ground up—taking an idea and turning it into a structured, working product.  
 The process of organizing, shaping, and refining something that didn't exist before is what makes development meaningful to me.
 
@@ -8,7 +8,7 @@ I'm open to opportunities where I can learn, contribute, and grow by building us
 
 ---
 
-## 🔧 Technologies & Skills
+##  Technologies & Skills
 
 **Languages:**  
 Python · JavaScript · Dart · SQL  
