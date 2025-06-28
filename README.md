@@ -17,8 +17,15 @@ Python · JavaScript · Dart · SQL
 Node.js · React Native · Flutter  
 
 **Tools & Platforms:**  
-VS Code · Cursor · MySQL · Firebase · Colab 
+MySQL · Firebase · Colab 
 
 **Focus Areas:**  
 Artificial Intelligence · Machine Learning · Mobile Development · Frontend & Backend Engineering · Convolutional Neural Network
 
+---
+
+## 📫 Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Furkan%20Genca-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkangenca/)
+
+[![Email](https://img.shields.io/badge/Email-furkan.genca%40proton.me-D14836?style=flat-square&logo=protonmail&logoColor=white)](mailto:furkan.genca@proton.me)
