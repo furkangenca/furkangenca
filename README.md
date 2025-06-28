@@ -14,13 +14,20 @@ I'm open to opportunities where I can learn, contribute, and grow by building us
 Python · JavaScript · Dart · SQL  
 
 **Frameworks & Libraries:**  
-Node.js · React Native · Flutter  
+Node.js · React Native · Flutter
 
-**Tools & Platforms:**  
-MySQL · Firebase · Colab 
+**Databases:**  
+MySQL
+
+**Cloud Platforms & Services:**  
+Firebase · Google Colab
+
+**Tools:**  
+Git · Postman
+
 
 **Focus Areas:**  
-Artificial Intelligence · Machine Learning · Mobile Development · Frontend & Backend Engineering · Convolutional Neural Network
+Machine Learning · Mobile App Development · Backend Engineering · Computer Vision (CNNs)
 
 ---
 
