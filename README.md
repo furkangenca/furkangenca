@@ -20,5 +20,5 @@ Node.js · React Native · Flutter
 VS Code · Cursor · MySQL · Firebase · Colab 
 
 **Focus Areas:**  
-Artificial Intelligence · Machine Learning · Mobile Development · Backend Engineering
+Artificial Intelligence · Machine Learning · Mobile Development · Frontend & Backend Engineering · Convolutional Neural Network
 
