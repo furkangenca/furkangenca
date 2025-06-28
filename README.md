@@ -31,18 +31,18 @@ Machine Learning · Mobile App Development · Backend Engineering · Computer Vi
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🧠 AI-Powered Applications
+###  AI-Powered Applications
 - [catify-mobile-ai-demo](https://github.com/kullaniciadi/catify-mobile-ai-demo): Detects emotional states of cats using deep learning (MobileNetV2) and real-time Flutter interface.
 - [typetune-ai](https://github.com/kullaniciadi/typetune-ai): Predicts MBTI personality types from text and recommends matching music via Streamlit.
 - [archify-mobile-ai](https://github.com/kullaniciadi/archify-mobile-ai): Classifies architectural styles with CNNs and transfer learning, built with Flutter and TensorFlow Lite.
 
-### 📱 Mobile Applications
+###  Mobile Applications
 - [dailyquo-mobile](https://github.com/kullaniciadi/dailyquo-mobile): React Native app that delivers daily inspirational quotes, supports search and favorites.
 - [taskly-mobile](https://github.com/kullaniciadi/taskly-mobile): To-do mobile app built with Flutter & Firebase, developed during an internship as a full-featured production-ready prototype.
 
-### 🌐 Fullstack Web Applications
+###  Fullstack Web Applications
 - [synapps-web](https://github.com/kullaniciadi/synapps-web): Real-time project management platform with notifications, task boards, and team collaboration using Next.js, FastAPI, and PostgreSQL.
 - [portfolio-web-demo](https://github.com/kullaniciadi/portfolio-web-demo): Personal portfolio site with blog, project showcase, and admin panel. Backend hidden; frontend built with Next.js.
 
