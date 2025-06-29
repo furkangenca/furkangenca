@@ -1,4 +1,4 @@
-#  Furkan Genca | Software Engineer
+#  Furkan Genca | Software Engineer | AI & Machine Learning • Mobile Development • Full-Stack Engineering
 
 ##  About Me
 I enjoy designing and building software from the ground up—taking an idea and turning it into a structured, working product.  
