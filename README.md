@@ -8,13 +8,13 @@ I'm open to opportunities where I can learn, contribute, and grow by building us
 
 ---
 
-##  Technologies & Skills
+## Technologies & Skills
 
 ### Languages  
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=flat&logo=sqlite&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=flat&logo=postgresql&logoColor=white)
 
 ### Frameworks & Libraries  
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
@@ -24,13 +24,11 @@ I'm open to opportunities where I can learn, contribute, and grow by building us
 ### Databases  
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
 
-### Cloud Platforms & Services  
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black)
-![Google Colab](https://img.shields.io/badge/Google_Colab-%23F9AB00.svg?style=flat&logo=googlecolab&logoColor=black)
-
-### Tools  
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-%23F9AB00.svg?style=flat&logo=googlecolab&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black)
 
 ---
 
@@ -58,6 +56,7 @@ I'm open to opportunities where I can learn, contribute, and grow by building us
 
 ## 📫 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Furkan%20Genca-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkangenca/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkangenca/)
 
-[![Email](https://img.shields.io/badge/Email-furkan.genca%40proton.me-D14836?style=flat-square&logo=protonmail&logoColor=white)](mailto:furkan.genca@proton.me)
+[![Email](https://img.shields.io/badge/Email-furkan.genca%40proton.me-D14836?style=flat&logo=protonmail&logoColor=white)](mailto:furkan.genca@proton.me)
+
