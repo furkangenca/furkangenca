@@ -8,7 +8,7 @@ I'm open to opportunities where I can learn, contribute, and grow by building us
 
 ---
 
-## 🛠 Technologies & Skills
+##  Technologies & Skills
 
 ### Languages  
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
@@ -32,26 +32,27 @@ I'm open to opportunities where I can learn, contribute, and grow by building us
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
 
-### Focus Areas  
-💡 Machine Learning · Mobile App Development · Backend Engineering · Computer Vision (CNNs)
+---
+
+##  Focus Areas
+
+![ML](https://img.shields.io/badge/-Machine%20Learning-blueviolet?style=flat&logo=tensorflow&logoColor=white)
+![CV](https://img.shields.io/badge/-Computer%20Vision-%23007ACC?style=flat&logo=opencv&logoColor=white)
+![Mobile](https://img.shields.io/badge/-Mobile%20Development-%2302569B?style=flat&logo=flutter&logoColor=white)
+![Backend](https://img.shields.io/badge/-Backend%20Engineering-%23339933?style=flat&logo=node.js&logoColor=white)
+
 
 
 ---
 
 ##  Featured Projects
 
-###  AI-Powered Applications
-- [catify-mobile-ai-demo](https://github.com/furkangenca/catify-mobile-ai-demo): Detects emotional states of cats using deep learning (MobileNetV2) and real-time Flutter interface.
-- [typetune-ai](https://github.com/furkangenca/typetune-ai): Predicts MBTI personality types from text and recommends matching music via Streamlit.
-- [archify-mobile-ai](https://github.com/furkangenca/archify-mobile-ai): Classifies architectural styles with CNNs and transfer learning, built with Flutter and TensorFlow Lite.
+| 🧠 AI-Powered Apps | 📱 Mobile Apps | 🌐 Fullstack Web |
+|-------------------|----------------|------------------|
+| [🐱 Catify](https://github.com/furkangenca/catify-mobile-ai-demo) <br> Detects cat emotions via MobileNetV2 in real-time | [📖 DailyQuo](https://github.com/furkangenca/dailyquo-mobile) <br> Daily inspirational quotes app (React Native) | [📊 Synapps](https://github.com/furkangenca/synapps-web) <br> Real-time team collaboration with FastAPI & Next.js |
+| [🎧 TypeTune](https://github.com/furkangenca/typetune-ai) <br> Predicts MBTI types & recommends music | [✅ Taskly](https://github.com/furkangenca/taskly-mobile) <br> Firebase-backed to-do app built with Flutter | [🌐 Portfolio](https://github.com/furkangenca/portfolio-web-demo) <br> Developer portfolio with blog & admin panel |
+| [🏛 Archify](https://github.com/furkangenca/archify-mobile-ai) <br> CNN-based architecture style classifier |  |  |
 
-###  Mobile Applications
-- [dailyquo-mobile](https://github.com/furkangenca/dailyquo-mobile): React Native app that delivers daily inspirational quotes, supports search and favorites.
-- [taskly-mobile](https://github.com/furkangenca/taskly-mobile): To-do mobile app built with Flutter & Firebase, developed during an internship as a full-featured production-ready prototype.
-
-###  Fullstack Web Applications
-- [synapps-web](https://github.com/furkangenca/synapps-web): Real-time project management platform with notifications, task boards, and team collaboration using Next.js, FastAPI, and PostgreSQL.
-- [portfolio-web-demo](https://github.com/furkangenca/portfolio-web-demo): Personal portfolio site with blog, project showcase, and admin panel. Backend hidden; frontend built with Next.js.
 
 ---
 
