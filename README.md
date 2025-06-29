@@ -8,26 +8,33 @@ I'm open to opportunities where I can learn, contribute, and grow by building us
 
 ---
 
-##  Technologies & Skills
+## 🛠 Technologies & Skills
 
-**Languages:**  
-Python · JavaScript · Dart · SQL  
+### Languages  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=flat&logo=sqlite&logoColor=white)
 
-**Frameworks & Libraries:**  
-Node.js · React Native · Flutter
+### Frameworks & Libraries  
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
 
-**Databases:**  
-MySQL
+### Databases  
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
 
-**Cloud Platforms & Services:**  
-Firebase · Google Colab
+### Cloud Platforms & Services  
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black)
+![Google Colab](https://img.shields.io/badge/Google_Colab-%23F9AB00.svg?style=flat&logo=googlecolab&logoColor=black)
 
-**Tools:**  
-Git · Postman
+### Tools  
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
 
+### Focus Areas  
+💡 Machine Learning · Mobile App Development · Backend Engineering · Computer Vision (CNNs)
 
-**Focus Areas:**  
-Machine Learning · Mobile App Development · Backend Engineering · Computer Vision (CNNs)
 
 ---
 
