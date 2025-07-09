@@ -60,3 +60,7 @@ I'm open to opportunities where I can learn, contribute, and grow by building us
 
 [![Email](https://img.shields.io/badge/Email-furkan.genca%40proton.me-D14836?style=flat&logo=protonmail&logoColor=white)](mailto:furkan.genca@proton.me)
 
+---
+![Visitors](https://komarev.com/ghpvc/?username=furkangenca&label=PROFILE+VIEWS&color=0e75b6&style=flat)
+
+
